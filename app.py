@@ -11,7 +11,7 @@ st.set_page_config(page_title="Heart Risk Prediction", page_icon="❤️", layou
 
 # Title
 st.markdown("<h1 style='text-align:center; color:#FF4B4B;'>❤️ Heart Risk Prediction App</h1>", unsafe_allow_html=True)
-st.write("Your heart health matters,see how healthy your heart is today.", layout="wide")
+st.write("Your heart health matters,see how healthy your heart is today.")
 st.markdown("---")
 
 # Layout: Two columns for cleaner look
